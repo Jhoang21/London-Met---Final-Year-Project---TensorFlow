@@ -25,4 +25,8 @@ The project overall is viewed as a success by the assessors. Contributing to the
 
 15/09/2022 - Currently there are no plans for iteration or improvements on this project. As the student wishes to focus their efforts on smaller scale project that aim to stretch the student's skills in programming whlist not requiring addtional resources that could impede the student's growth. 
 
-There may be future plans to revisit this project to convert the program into a compiled executable for use on a personal system. 
+There may be future plans to revisit this project to convert the program into a compiled executable for use on a personal system.
+
+## License
+
+<a href="https://choosealicense.com/licenses/mit/"><img src="https://raw.githubusercontent.com/johnturner4004/readme-generator/master/src/components/assets/images/mit.svg" height=40 />MIT License</a>
