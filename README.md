@@ -4,11 +4,13 @@ This repository aims to house the Final Year project created by student "Jamie H
 
 The goal of the project was to utilize Machine Learning to detect steganography within suspected files. 
 
-An Addtional tool was created to standardize and format files into sample data to feed into the program to create a model to base its predictions.
+An addtional tool was created to standardize and format files into sample data to feed into the program to create a model to base its predictions.
 
     -  The tool that is in reference is "[JH]CW Project - SampleCreator.py"
 
-The actual program itself is housed in a Jupyter notebook ("CW_Final_Project_Jamie_Hoang.ipynb") which can be viewable on Google Colaboratory
+The actual program itself is housed in a Jupyter notebook which can be viewable on Google Colaboratory
+
+    -  The program that is in reference is "CW_Final_Project_Jamie_Hoang.ipynb"
 
 Documentation relating to the project is available in the links provided below or in pdf files within the repository. Which range from technical breakdowns, research, personal thoughts and evaluation of the project overall.
 
