@@ -12,6 +12,8 @@ The actual program itself is housed in a Jupyter notebook ("CW_Final_Project_Jam
 
 Documentation relating to the project is available in the links provided below or in pdf files within the repository. Which range from technical breakdowns, research, personal thoughts and evaluation of the project overall.
 
+[Project Documentation] (https://docs.google.com/document/d/1I6VEZjUwOKZe-MzC_Aiqq43d50fC909dEWaulLKJ9qU/edit?usp=sharing)
+
 <a href="https://docs.google.com/document/d/1I6VEZjUwOKZe-MzC_Aiqq43d50fC909dEWaulLKJ9qU/edit?usp=sharing">Project Documentation</a>
 <a href="https://docs.google.com/document/d/1hf89iJk74qM4nKvfrcORNZ8mMMZ_KL03JaKl-UKverM/edit?usp=sharing/">Project Artifact Documentation</a>
 <a href="https://docs.google.com/document/d/184RVUKtFQHm4H4YWBmmM3hLkvYIAPr0a/edit?usp=sharing&ouid=106768669633460367557&rtpof=true&sd=true">Project Proposal Documentation</a>
